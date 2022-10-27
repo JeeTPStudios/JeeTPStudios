@@ -1,4 +1,4 @@
-- 👋 We are JeeTP Games!
+👋 We are JeeTP Games!
 Videogame and Interactive Experiences Production Company
 
 Started in Mexico, it is currently a small production company especially for videogames which is already working with international clients.
